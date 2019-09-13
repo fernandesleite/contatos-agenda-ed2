@@ -2,5 +2,5 @@
 
 **Bruno Fernandes da Silva Leite**
 
-Trabalho Prático - ED2 - IFSP - Campos Cubatão
+Trabalho Prático - ESTRUTURAS DE DADOS II - IFSP - Campos Cubatão
 
