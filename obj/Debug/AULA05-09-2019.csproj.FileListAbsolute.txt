@@ -1,0 +1,10 @@
+C:\Users\Kim Ochii\source\repos\AULA05-09-2019\bin\Debug\AULA05-09-2019.exe.config
+C:\Users\Kim Ochii\source\repos\AULA05-09-2019\bin\Debug\AULA05-09-2019.exe
+C:\Users\Kim Ochii\source\repos\AULA05-09-2019\bin\Debug\AULA05-09-2019.pdb
+C:\Users\Kim Ochii\source\repos\AULA05-09-2019\obj\Debug\AULA05-09-2019.csprojAssemblyReference.cache
+C:\Users\Kim Ochii\source\repos\AULA05-09-2019\obj\Debug\AULA05_09_2019.Form1.resources
+C:\Users\Kim Ochii\source\repos\AULA05-09-2019\obj\Debug\AULA05_09_2019.Properties.Resources.resources
+C:\Users\Kim Ochii\source\repos\AULA05-09-2019\obj\Debug\AULA05-09-2019.csproj.GenerateResource.cache
+C:\Users\Kim Ochii\source\repos\AULA05-09-2019\obj\Debug\AULA05-09-2019.csproj.CoreCompileInputs.cache
+C:\Users\Kim Ochii\source\repos\AULA05-09-2019\obj\Debug\AULA05-09-2019.exe
+C:\Users\Kim Ochii\source\repos\AULA05-09-2019\obj\Debug\AULA05-09-2019.pdb
